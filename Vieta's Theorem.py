@@ -1,7 +1,7 @@
 """
 
     Author: @dogmastr
-    Description: Vieta's Theorem: Converts roots of a monic polynomial to its coefficients and vice versa.
+    Description: Converts roots of a monic polynomial to its coefficients and vice versa using Vieta's Theorem.
 
 """
 
