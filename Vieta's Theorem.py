@@ -40,7 +40,7 @@ def vieta_reverse(coefficients):
 
 
 """
-
+    
     Example Usage
     
 """
